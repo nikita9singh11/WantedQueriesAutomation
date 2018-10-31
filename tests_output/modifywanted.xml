@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="modifywanted"
+    errors="1" failures="0" hostname="" id="" package="modifywanted" skipped="1"
+    tests="2" time="0.01100" timestamp="Wed, 31 Oct 2018 16:50:59 GMT">
+  
+    <testcase name="Check Valid Search (Modify Wanted)" classname="modifywanted" time="0.01100" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Modifywanted / Check Valid Search (Modify Wanted)]:
+
+  TypeError: Cannot read property &#39;navigate&#39; of undefined
+    at module.exports (C:\Users\Nikita\devmntn\WantedQueries\Tests\modifyvalid.js:3:18)
+    at Object.Check Valid Search (Modify Wanted) (C:\Users\Nikita\devmntn\WantedQueries\Tests\modifywanted.js:17:13)
+    at Module.call (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Nikita\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    </system-err>
+  
+
+  
+    
+    <testcase
+      name="Check Invalid Search (Modify Wanted)" classname="modifywanted">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

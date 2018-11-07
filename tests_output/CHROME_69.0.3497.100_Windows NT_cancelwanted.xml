@@ -5,14 +5,14 @@
 
   <testsuite name="cancelwanted"
     errors="0" failures="0" hostname="" id="" package="cancelwanted" skipped="0"
-    tests="2" time="5.773" timestamp="Wed, 31 Oct 2018 16:58:02 GMT">
+    tests="2" time="5.714" timestamp="Thu, 01 Nov 2018 00:58:50 GMT">
   
-    <testcase name="Check Valid Search (Cancel Wanted Queries)" classname="cancelwanted" time="5.296" assertions="1">
+    <testcase name="Check Valid Search (Cancel Wanted Queries)" classname="cancelwanted" time="5.334" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Check Invalid Search (Cancel Wanted Queries)" classname="cancelwanted" time="0.4770" assertions="1">
+    <testcase name="Check Invalid Search (Cancel Wanted Queries)" classname="cancelwanted" time="0.3800" assertions="1">
 
     
     </testcase>

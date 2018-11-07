@@ -5,9 +5,9 @@
 
   <testsuite name="modifywanted"
     errors="0" failures="1" hostname="" id="" package="modifywanted" skipped="1"
-    tests="2" time="12.08" timestamp="Wed, 31 Oct 2018 16:52:23 GMT">
+    tests="2" time="16.30" timestamp="Thu, 01 Nov 2018 01:00:05 GMT">
   
-    <testcase name="Check Valid Search (Modify Wanted)" classname="modifywanted" time="12.08" assertions="1">  <failure message="Expected element &lt;span[name=&#34;queryTitle&#34;]&gt; text to equal: &#34;Assembled Query:&#34; in 5000ms">    at module.exports (C:\Users\Nikita\devmntn\WantedQueries\Tests\modifyvalid.js:22:25)
+    <testcase name="Check Valid Search (Modify Wanted)" classname="modifywanted" time="16.30" assertions="1">  <failure message="Expected element &lt;span[name=&#34;queryTitle&#34;]&gt; text to equal: &#34;Assembled Query:&#34; in 5000ms">    at module.exports (C:\Users\Nikita\devmntn\WantedQueries\Tests\modifyvalid.js:22:25)
     at Object.Check Valid Search (Modify Wanted) (C:\Users\Nikita\devmntn\WantedQueries\Tests\modifywanted.js:17:13)</failure>
 
     

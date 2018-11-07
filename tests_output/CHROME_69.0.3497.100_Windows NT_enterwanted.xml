@@ -5,14 +5,14 @@
 
   <testsuite name="enterwanted"
     errors="0" failures="0" hostname="" id="" package="enterwanted" skipped="0"
-    tests="2" time="8.221" timestamp="Wed, 31 Oct 2018 15:04:32 GMT">
+    tests="2" time="7.344" timestamp="Thu, 01 Nov 2018 00:59:30 GMT">
   
-    <testcase name="Check valid Search (Enter Wanted)" classname="enterwanted" time="6.247" assertions="1">
+    <testcase name="Check valid Search (Enter Wanted)" classname="enterwanted" time="5.580" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Check invalid Search (Enter Wanted)" classname="enterwanted" time="1.974" assertions="1">
+    <testcase name="Check invalid Search (Enter Wanted)" classname="enterwanted" time="1.764" assertions="1">
 
     
     </testcase>
